@@ -12,8 +12,6 @@ This application allows users to add, view, complete, and delete tasks, demonstr
 
 ❌ Button to delete a task
 
-🎨 Optional UI: Visual indicator for completed tasks (e.g., strikethrough or color change)
-
 🔹 Backend (Node.js + Express)
 Exposes REST API endpoints:
 
