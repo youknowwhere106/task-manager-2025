@@ -40,7 +40,6 @@ created_at (Timestamp)
 
 📦 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/task-manager-app.git
 cd task-manager-app
 2. Set Up Backend
 cd backend
